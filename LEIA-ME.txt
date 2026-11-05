@@ -1,0 +1,10 @@
+FLV OPERAÇÃO v4.0
+
+USO RÁPIDO
+1) Abra index.html no Chrome para testar (funciona offline, mas microfone, câmera e instalação exigem HTTPS).
+2) Para uso no celular: publique esta pasta em qualquer hospedagem estática HTTPS gratuita (ex.: Netlify Drop, GitHub Pages),
+   abra o endereço no Chrome do Android e escolha "Instalar aplicativo" (também em Configurações do app). Depois funciona sem internet.
+
+MIGRAR DADOS DA VERSÃO ANTERIOR
+Os dados ficam no armazenamento do navegador de cada endereço. No app antigo: Configurações > Backup JSON.
+No novo: Configurações > Restaurar.
